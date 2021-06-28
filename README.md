@@ -1,15 +1,15 @@
 # igti-delivery-api-module1
-DESAFIO DO MÓDULO 1
+# DESAFIO DO MÓDULO 1
 
-Objetivos
+# Objetivos
 Exercitar os conceitos trabalhados no módulo para criação de uma API, criando endpoints
 utilizando Node.js e Express.
 
-Enunciado
+# Enunciado
 Desenvolver uma API chamada “delivery-api” para controlar pedidos de um delivery de
 comida.
 
-Atividades
+# Atividades
 O desafio final consiste em desenvolver uma API chamada “delivery-api” para controlar
 pedidos de clientes de um delivery. Você deverá desenvolver endpoints para criação,
 atualização, exclusão e consulta de pedidos. Os pedidos deverão ser salvos em um arquivo
